@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Agroap</string>
-    <string name="action_settings">setting2</string>
+    <string name="action_settings">Perfil</string>
+    <string name="action_settings2">Analisis</string>
 </resources>
